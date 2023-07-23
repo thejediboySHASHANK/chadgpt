@@ -8,7 +8,8 @@ export default {
     extend: {
       colors : {
         background : "#141718",
-        chat : "#232627"
+        chat : "#232627",
+        logo : "#027BE4"
       }
     },
   },
